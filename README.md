@@ -1,3 +1,5 @@
+Note: The Live server will not work as I deployed this project on Rinkeby testnet which does not exists anymore. But you can look at the code.
+
 I built a decentralized lottery using chainlink vrf and chainlink keepers.
 
 [Live server](https://cool-wind-8472.on.fleek.co/)
